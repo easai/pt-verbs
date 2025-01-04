@@ -1,0 +1,683 @@
+[
+    {
+        "title": "Present ser",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu sou]",
+                    "question": "eu",
+                    "answer": "sou",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós somos]",
+                    "question": "nós",
+                    "answer": "somos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você é]",
+                    "question": "ele/ela/você",
+                    "answer": "é",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas são]",
+                    "question": "eles/elas",
+                    "answer": "são",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'ser' is used to describe current actions or states of being.",
+        "test": {
+            "1s": ["sou", "eu ___ feliz.", "I am happy."],
+            "3s": ["é", "ele/ela/você ___ estudante.", "He/She/You (formal) is a student."],
+            "1p": ["somos", "nós ___ amigos.", "We are friends."],
+            "3p": ["são", "eles/elas ___ médicos.", "They are doctors."]
+        }
+    },
+    {
+        "title": "Present estar",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu estou]",
+                    "question": "eu",
+                    "answer": "estou",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós estamos]",
+                    "question": "nós",
+                    "answer": "estamos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você está]",
+                    "question": "ele/ela/você",
+                    "answer": "está",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas estão]",
+                    "question": "eles/elas",
+                    "answer": "estão",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'estar' is used to describe current actions or states of being.",
+        "test": {
+            "1s": ["estou", "eu ___ feliz.", "I am happy."],
+            "3s": ["está", "ele/ela/você ___ cansado.", "He/She/You (formal) is tired."],
+            "1p": ["estamos", "nós ___ prontos.", "We are ready."],
+            "3p": ["estão", "eles/elas ___ na escola.", "They are at school."]
+        }
+    }, 
+    {
+        "title": "Present ter",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu tenho]",
+                    "question": "eu",
+                    "answer": "tenho",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós temos]",
+                    "question": "nós",
+                    "answer": "temos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você tem]",
+                    "question": "ele/ela/você",
+                    "answer": "tem",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas têm]",
+                    "question": "eles/elas",
+                    "answer": "têm",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'ter' is used to describe possession or relationships.",
+        "test": {
+            "1s": ["tenho", "eu ___ um carro.", "I have a car."],
+            "3s": ["tem", "ele/ela/você ___ um livro.", "He/She/You (formal) has a book."],
+            "1p": ["temos", "nós ___ amigos.", "We have friends."],
+            "3p": ["têm", "eles/elas ___ brinquedos.", "They have toys."]
+        }
+    },
+    {
+        "title": "Present ir",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu vou]",
+                    "question": "eu",
+                    "answer": "vou",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós vamos]",
+                    "question": "nós",
+                    "answer": "vamos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você vai]",
+                    "question": "ele/ela/você",
+                    "answer": "vai",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas vão]",
+                    "question": "eles/elas",
+                    "answer": "vão",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'ir' is used to describe current actions or states of going.",
+        "test": {
+            "1s": ["vou", "eu ___ ao mercado.", "I go to the market."],
+            "3s": ["vai", "ele/ela/você ___ à escola.", "He/She/You (formal) goes to school."],
+            "1p": ["vamos", "nós ___ ao parque.", "We go to the park."],
+            "3p": ["vão", "eles/elas ___ ao cinema.", "They go to the cinema."]
+        }
+    },
+    {
+        "title": "Present dar",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu dou]",
+                    "question": "eu",
+                    "answer": "dou",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós damos]",
+                    "question": "nós",
+                    "answer": "damos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você dá]",
+                    "question": "ele/ela/você",
+                    "answer": "dá",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas dão]",
+                    "question": "eles/elas",
+                    "answer": "dão",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'dar' is used to describe the act of giving.",
+        "test": {
+            "1s": ["dou", "eu ___ um presente.", "I give a gift."],
+            "3s": ["dá", "ele/ela/você ___ uma flor.", "He/She/You (formal) gives a flower."],
+            "1p": ["damos", "nós ___ apoio.", "We give support."],
+            "3p": ["dão", "eles/elas ___ conselhos.", "They give advice."]
+        }
+    },
+    {
+        "title": "Present vir",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu venho]",
+                    "question": "eu",
+                    "answer": "venho",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós vimos]",
+                    "question": "nós",
+                    "answer": "vimos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você vem]",
+                    "question": "ele/ela/você",
+                    "answer": "vem",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas vêm]",
+                    "question": "eles/elas",
+                    "answer": "vêm",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'vir' is used to describe the act of coming.",
+        "test": {
+            "1s": ["venho", "eu ___ para casa.", "I come home."],
+            "3s": ["vem", "ele/ela/você ___ ao trabalho.", "He/She/You (formal) comes to work."],
+            "1p": ["vimos", "nós ___ juntos.", "We come together."],
+            "3p": ["vêm", "eles/elas ___ à festa.", "They come to the party."]
+        }
+    },
+    {
+        "title": "Present querer",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu quero]",
+                    "question": "eu",
+                    "answer": "quero",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós queremos]",
+                    "question": "nós",
+                    "answer": "queremos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você quer]",
+                    "question": "ele/ela/você",
+                    "answer": "quer",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas querem]",
+                    "question": "eles/elas",
+                    "answer": "querem",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'querer' is used to describe the act of wanting or desiring.",
+        "test": {
+            "1s": ["quero", "eu ___ um café.", "I want a coffee."],
+            "3s": ["quer", "ele/ela/você ___ um livro.", "He/She/You (formal) wants a book."],
+            "1p": ["queremos", "nós ___ viajar.", "We want to travel."],
+            "3p": ["querem", "eles/elas ___ aprender.", "They want to learn."]
+        }
+    },
+    {
+        "title": "Present fazer",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu faço]",
+                    "question": "eu",
+                    "answer": "faço",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós fazemos]",
+                    "question": "nós",
+                    "answer": "fazemos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você faz]",
+                    "question": "ele/ela/você",
+                    "answer": "faz",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas fazem]",
+                    "question": "eles/elas",
+                    "answer": "fazem",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'fazer' is used to describe the act of doing or making.",
+        "test": {
+            "1s": ["faço", "eu ___ um bolo.", "I make a cake."],
+            "3s": ["faz", "ele/ela/você ___ o trabalho.", "He/She/You (formal) does the work."],
+            "1p": ["fazemos", "nós ___ a lição de casa.", "We do the homework."],
+            "3p": ["fazem", "eles/elas ___ as tarefas.", "They do the tasks."]
+        }
+    },
+    {
+        "title": "Present dizer",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu digo]",
+                    "question": "eu",
+                    "answer": "digo",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós dizemos]",
+                    "question": "nós",
+                    "answer": "dizemos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você diz]",
+                    "question": "ele/ela/você",
+                    "answer": "diz",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas dizem]",
+                    "question": "eles/elas",
+                    "answer": "dizem",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'dizer' is used to describe the act of saying or telling.",
+        "test": {
+            "1s": ["digo", "eu ___ a verdade.", "I tell the truth."],
+            "3s": ["diz", "ele/ela/você ___ uma história.", "He/She/You (formal) tells a story."],
+            "1p": ["dizemos", "nós ___ as notícias.", "We say the news."],
+            "3p": ["dizem", "eles/elas ___ os segredos.", "They say the secrets."]
+        }
+    },
+    {
+        "title": "Present poder",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu posso]",
+                    "question": "eu",
+                    "answer": "posso",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós podemos]",
+                    "question": "nós",
+                    "answer": "podemos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você pode]",
+                    "question": "ele/ela/você",
+                    "answer": "pode",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas podem]",
+                    "question": "eles/elas",
+                    "answer": "podem",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'poder' is used to describe the ability to do something.",
+        "test": {
+            "1s": ["posso", "eu ___ ajudar.", "I can help."],
+            "3s": ["pode", "ele/ela/você ___ vir.", "He/She/You (formal) can come."],
+            "1p": ["podemos", "nós ___ fazer isso.", "We can do this."],
+            "3p": ["podem", "eles/elas ___ participar.", "They can participate."]
+        }
+    },
+    {
+        "title": "Present saber",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu sei]",
+                    "question": "eu",
+                    "answer": "sei",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós sabemos]",
+                    "question": "nós",
+                    "answer": "sabemos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você sabe]",
+                    "question": "ele/ela/você",
+                    "answer": "sabe",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas sabem]",
+                    "question": "eles/elas",
+                    "answer": "sabem",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'saber' is used to describe the act of knowing.",
+        "test": {
+            "1s": ["sei", "eu ___ a resposta.", "I know the answer."],
+            "3s": ["sabe", "ele/ela/você ___ o caminho.", "He/She/You (formal) knows the way."],
+            "1p": ["sabemos", "nós ___ a verdade.", "We know the truth."],
+            "3p": ["sabem", "eles/elas ___ o segredo.", "They know the secret."]
+        }
+    },
+    {
+        "title": "Present trazer",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu trago]",
+                    "question": "eu",
+                    "answer": "trago",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós trazemos]",
+                    "question": "nós",
+                    "answer": "trazemos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você traz]",
+                    "question": "ele/ela/você",
+                    "answer": "traz",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas trazem]",
+                    "question": "eles/elas",
+                    "answer": "trazem",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'trazer' is used to describe the act of bringing.",
+        "test": {
+            "1s": ["trago", "eu ___ o presente.", "I bring the gift."],
+            "3s": ["traz", "ele/ela/você ___ a comida.", "He/She/You (formal) brings the food."],
+            "1p": ["trazemos", "nós ___ as bebidas.", "We bring the drinks."],
+            "3p": ["trazem", "eles/elas ___ as flores.", "They bring the flowers."]
+        }
+    },
+    {
+        "title": "Present ver",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu vejo]",
+                    "question": "eu",
+                    "answer": "vejo",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós vemos]",
+                    "question": "nós",
+                    "answer": "vemos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você vê]",
+                    "question": "ele/ela/você",
+                    "answer": "vê",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas veem]",
+                    "question": "eles/elas",
+                    "answer": "veem",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'ver' is used to describe the act of seeing.",
+        "test": {
+            "1s": ["vejo", "eu ___ o filme.", "I see the movie."],
+            "3s": ["vê", "ele/ela/você ___ a paisagem.", "He/She/You (formal) sees the landscape."],
+            "1p": ["vemos", "nós ___ a cidade.", "We see the city."],
+            "3p": ["veem", "eles/elas ___ as estrelas.", "They see the stars."]
+        }
+    },
+    {
+        "title": "Present pôr",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu ponho]",
+                    "question": "eu",
+                    "answer": "ponho",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós pomos]",
+                    "question": "nós",
+                    "answer": "pomos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você põe]",
+                    "question": "ele/ela/você",
+                    "answer": "põe",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas põem]",
+                    "question": "eles/elas",
+                    "answer": "põem",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'pôr' is used to describe the act of putting.",
+        "test": {
+            "1s": ["ponho", "eu ___ a mesa.", "I set the table."],
+            "3s": ["põe", "ele/ela/você ___ o livro na estante.", "He/She/You (formal) puts the book on the shelf."],
+            "1p": ["pomos", "nós ___ as cadeiras no lugar.", "We put the chairs in place."],
+            "3p": ["põem", "eles/elas ___ as malas no carro.", "They put the bags in the car."]
+        }
+    },
+    {
+        "title": "Present sair",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu saio]",
+                    "question": "eu",
+                    "answer": "saio",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós saímos]",
+                    "question": "nós",
+                    "answer": "saímos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você sai]",
+                    "question": "ele/ela/você",
+                    "answer": "sai",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas saem]",
+                    "question": "eles/elas",
+                    "answer": "saem",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'sair' is used to describe the act of leaving or going out.",
+        "test": {
+            "1s": ["saio", "eu ___ de casa cedo.", "I leave home early."],
+            "3s": ["sai", "ele/ela/você ___ para o trabalho.", "He/She/You (formal) leaves for work."],
+            "1p": ["saímos", "nós ___ juntos.", "We go out together."],
+            "3p": ["saem", "eles/elas ___ à noite.", "They go out at night."]
+        }
+    },
+    {
+        "title": "Present ouvir",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu ouço]",
+                    "question": "eu",
+                    "answer": "ouço",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós ouvimos]",
+                    "question": "nós",
+                    "answer": "ouvimos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você ouve]",
+                    "question": "ele/ela/você",
+                    "answer": "ouve",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas ouvem]",
+                    "question": "eles/elas",
+                    "answer": "ouvem",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'ouvir' is used to describe the act of hearing.",
+        "test": {
+            "1s": ["ouço", "eu ___ música.", "I hear music."],
+            "3s": ["ouve", "ele/ela/você ___ a conversa.", "He/She/You (formal) hears the conversation."],
+            "1p": ["ouvimos", "nós ___ o barulho.", "We hear the noise."],
+            "3p": ["ouvem", "eles/elas ___ os pássaros.", "They hear the birds."]
+        }
+    },
+    {
+        "title": "Present ler",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu leio]",
+                    "question": "eu",
+                    "answer": "leio",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós lemos]",
+                    "question": "nós",
+                    "answer": "lemos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você lê]",
+                    "question": "ele/ela/você",
+                    "answer": "lê",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas leem]",
+                    "question": "eles/elas",
+                    "answer": "leem",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'ler' is used to describe the act of reading.",
+        "test": {
+            "1s": ["leio", "eu ___ um livro.", "I read a book."],
+            "3s": ["lê", "ele/ela/você ___ o jornal.", "He/She/You (formal) reads the newspaper."],
+            "1p": ["lemos", "nós ___ as notícias.", "We read the news."],
+            "3p": ["leem", "eles/elas ___ as revistas.", "They read the magazines."]
+        }
+    }
+        
+]
