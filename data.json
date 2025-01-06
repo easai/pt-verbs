@@ -80,6 +80,126 @@
         }
     }, 
     {
+        "title": "Present falar",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu falo]",
+                    "question": "eu",
+                    "answer": "falo",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós falamos]",
+                    "question": "nós",
+                    "answer": "falamos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você fala]",
+                    "question": "ele/ela/você",
+                    "answer": "fala",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas falam]",
+                    "question": "eles/elas",
+                    "answer": "falam",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'falar' is used to describe current actions or states of speaking.",
+        "test": {
+            "1s": ["falo", "eu ___ português.", "I speak Portuguese."],
+            "3s": ["fala", "ele/ela/você ___ inglês.", "He/She/You (formal) speaks English."],
+            "1p": ["falamos", "nós ___ espanhol.", "We speak Spanish."],
+            "3p": ["falam", "eles/elas ___ francês.", "They speak French."]
+        }
+    },
+    {
+        "title": "Present comer",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu como]",
+                    "question": "eu",
+                    "answer": "como",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós comemos]",
+                    "question": "nós",
+                    "answer": "comemos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você come]",
+                    "question": "ele/ela/você",
+                    "answer": "come",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas comem]",
+                    "question": "eles/elas",
+                    "answer": "comem",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'comer' is used to describe current actions or states of eating.",
+        "test": {
+            "1s": ["como", "eu ___ uma maçã.", "I eat an apple."],
+            "3s": ["come", "ele/ela/você ___ pão.", "He/She/You (formal) eats bread."],
+            "1p": ["comemos", "nós ___ juntos.", "We eat together."],
+            "3p": ["comem", "eles/elas ___ frutas.", "They eat fruits."]
+        }
+    },
+    {
+        "title": "Present abrir",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu abro]",
+                    "question": "eu",
+                    "answer": "abro",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [nós abrimos]",
+                    "question": "nós",
+                    "answer": "abrimos",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She/You [ele/ela/você abre]",
+                    "question": "ele/ela/você",
+                    "answer": "abre",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [eles/elas abrem]",
+                    "question": "eles/elas",
+                    "answer": "abrem",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Portuguese present tense of 'abrir' is used to describe current actions or states of opening.",
+        "test": {
+            "1s": ["abro", "eu ___ a porta.", "I open the door."],
+            "3s": ["abre", "ele/ela/você ___ a janela.", "He/She/You (formal) opens the window."],
+            "1p": ["abrimos", "nós ___ os livros.", "We open the books."],
+            "3p": ["abrem", "eles/elas ___ as caixas.", "They open the boxes."]
+        }
+    },           
+    {
         "title": "Present ter",
         "table": {
             "1st Person": {
